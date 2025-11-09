@@ -46,6 +46,8 @@ Train/Validation Split: 80% / 20%
 Accuracy and loss visualized using Matplotlib.
 
 
+
+
  HandGestureRecognition
 
  README.md                ← Project description
