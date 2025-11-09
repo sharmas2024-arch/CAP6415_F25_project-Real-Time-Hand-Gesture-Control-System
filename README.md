@@ -47,13 +47,19 @@ Accuracy and loss visualized using Matplotlib.
 
 
  HandGestureRecognition
-│
-├── README.md                ← Project description and results
-├── requirements.txt         ← Dependencies
-├── data_loader.py           ← Loads and augments LeapGestRecog dataset
-├── vision.py                ← Main training & evaluation script
-├── models/                  ← Saved model weights
-└── results/                 ← Plots, metrics, and sample outputs
+
+ README.md                ← Project description
+
+ requirements.txt         ← Dependencies
+
+ data_loader.py           ← Loads and augments LeapGestRecog dataset
+
+ vision.py                ← Main training & evaluation script
+
+ models/                  ← Saved model weights
+
+ results/                 ← Plots, metrics, and sample outputs
+
 
 
 🧠 Key Learnings
