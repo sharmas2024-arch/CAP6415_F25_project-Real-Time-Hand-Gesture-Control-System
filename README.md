@@ -47,8 +47,7 @@ Accuracy and loss visualized using Matplotlib.
 
 
 
-
- HandGestureRecognition
+📦 HandGestureRecognition
 
  README.md                ← Project description
 
