@@ -9,7 +9,7 @@ Data augmentation techniques such as rotation, zoom, and horizontal flipping are
 This work demonstrates how deep learning can be applied to build efficient gesture-based control systems for use in robotics, gaming, and virtual reality environments.
 All visual results, including accuracy curves, confusion matrices, and sample predictions, are stored in the results/ folder.
 
-Data Loading and Preprocessing
+1️⃣ Data Loading and Preprocessing
 
 Loaded gesture images from the LeapGestRecog dataset.
 
