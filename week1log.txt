@@ -1,0 +1,4 @@
+First part which i have done is downloaded the dataset from kaggle (Name of the dataset - LeapGestRecog)
+Second part is i have created a python file  (named - prepare_dataset.py) and resize all the images to (128*128).
+Then i normalize the pixel value (0-1)
+And then split into train (70%), val (15%), test (15%)
