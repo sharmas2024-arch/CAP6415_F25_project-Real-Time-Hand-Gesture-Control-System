@@ -56,3 +56,22 @@ Accuracy and loss visualized using Matplotlib.
 └── results/                 ← Plots, metrics, and sample outputs
 
 
+🧠 Key Learnings
+
+CNNs are highly effective for visual pattern recognition tasks.
+
+Data augmentation greatly improves generalization.
+
+Gesture recognition can enable real-time HCI applications.
+
+🧾 References
+
+LeapGestRecog Dataset – Kaggle
+
+Chollet, F. Deep Learning with Python, 2nd Edition
+
+TensorFlow Documentation
+
+KathyFeiyang cs231n Project
+
+Joyce Nerd CV Lane Detection
