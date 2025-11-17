@@ -1,0 +1,40 @@
+📅 Week 2 — Model Design & Training
+
+Build CNN or transfer-learning model
+
+Train on LeapGestRecog
+
+Save model & training logs
+
+📌 Tasks
+
+Model Architecture :  Custom CNN (simple, fast)
+
+Training Setup
+
+Compile model
+
+Define callbacks (EarlyStopping, ModelCheckpoint)
+
+Set batch size, learning rate
+
+Run Training
+
+20–30 epochs
+
+Save accuracy/loss graphs
+
+Evaluate
+
+On validation set
+
+On test set
+
+Confusion matrix
+
+🎯 End-of-Week Deliverable
+
+✔️ Trained model file (final_model.h5)
+✔️ Training accuracy > 90%
+✔️ Confusion matrix
+✔️ Accuracy/loss charts
