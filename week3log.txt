@@ -17,3 +17,9 @@
 2.Latency Optimization :- Resize frames , Convert to grayscale if needed , Increase FPS 
 
 3.Display Predictions :- Put gesture label on screen , show probability bar
+
+ End-of-Week Deliverable
+
+✔️ Fully working real-time gesture recognition
+✔️ FPS ~ 15–25
+✔️ Smooth detection with labels
