@@ -1,0 +1,19 @@
+📅 Week 3 — Real-Time Detection System
+
+✅ Goals:
+
+1.Integrate camera input
+
+2.Use OpenCV for real-time segmentation
+
+3.Predict gesture in real time
+
+4.Optimize pipeline
+
+📌 Tasks
+
+1.OpenCV Integration :- Access webcam , Draw bounding box for hand area , Convert frame → model input , Use model.predict()
+
+2.Latency Optimization :- Resize frames , Convert to grayscale if needed , Increase FPS 
+
+3.Display Predictions :- Put gesture label on screen , show probability bar
