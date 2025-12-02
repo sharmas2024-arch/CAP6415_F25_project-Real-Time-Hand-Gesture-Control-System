@@ -1,0 +1,33 @@
+📅 Week 4 — Documentation, Testing
+
+
+✅ Goals:
+
+Clean code & structure
+
+Final testing
+
+📌 Tasks
+
+- Project Documentation
+
+- Abstract
+
+- Problem statement
+
+- Dataset explanation
+
+- Methodology
+
+- Model architecture
+
+- Results
+
+- Real-time system design
+
+- Conclusion & future scope
+
+______Code Cleanup_________
+
+- Add comments
+- Organize folders
