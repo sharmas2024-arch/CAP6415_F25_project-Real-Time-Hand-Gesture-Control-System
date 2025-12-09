@@ -11,6 +11,8 @@ All visual results, including accuracy curves, confusion matrices, and sample pr
 
 1️⃣ Data Loading and Preprocessing
 
+Download link :- https://www.kaggle.com/datasets/gti-upm/leapgestrecog (First download the dataset an extract)
+
 Loaded gesture images from the LeapGestRecog dataset.
 
 Converted to grayscale and resized to (128 × 128) pixels.
