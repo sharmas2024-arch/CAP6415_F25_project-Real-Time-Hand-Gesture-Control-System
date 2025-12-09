@@ -84,3 +84,6 @@ TensorFlow Documentation
 KathyFeiyang cs231n Project
 
 Joyce Nerd CV Lane Detection
+
+
+Video link :- https://youtu.be/weNAAyPgcWc?si=w6pGcVVx6aOdZzg7
