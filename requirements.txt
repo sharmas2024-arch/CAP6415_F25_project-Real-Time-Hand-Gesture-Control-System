@@ -10,3 +10,7 @@ pyautogui==0.9.54
 tqdm==4.66.2
 Pillow==10.0.1
 imutils==0.5.4
+pycaw==20251023
+comtypes==1.4.13
+pydot==1.4.2
+graphviz==3.0
