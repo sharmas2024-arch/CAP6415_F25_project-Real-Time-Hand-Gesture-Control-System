@@ -53,7 +53,7 @@ Accuracy and loss visualized using Matplotlib.
 
  README.md                ← Project description
 
- requirements.txt         ← Dependencies
+ requirements.txt         ← Dependencies (install all after making a new environment)
 
  data_loader.py           ← Loads and augments LeapGestRecog dataset
 
