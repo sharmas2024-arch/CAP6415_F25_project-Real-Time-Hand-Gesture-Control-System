@@ -1,0 +1,43 @@
+Week 5 — Model Training, Real-Time Integration & Evaluation
+
+Goals:
+- Train all models fully
+- Integrate model with real-time webcam feed
+- Run experiments + collect metrics
+- Optimize performance
+- Prepare visual results (graphs, tables, confusion matrix)
+
+Tasks Completed:
+
+1. Final Model Training
+- Trained CNN model on LeapGestRecog dataset.
+- Multiple training runs with hyperparameter adjustments.
+- Applied dropout and batch normalization.
+- Achieved stable accuracy on validation set.
+
+2. Hyperparameter Tuning
+- Compared optimizers: Adam, RMSProp, SGD.
+- Tuned architecture: kernel sizes, number of layers, dense layers.
+- Used callbacks: EarlyStopping, ReduceLROnPlateau, ModelCheckpoint.
+
+3. Experiments & Evaluation
+- Generated accuracy/loss curves.
+- Confusion matrix, precision, recall, F1-score.
+- Documented training configurations and results.
+
+4. Real-Time Gesture Recognition
+- Integrated model with OpenCV.
+- Implemented webcam frame capture + preprocessing pipeline.
+- Real-time predictions displayed on screen.
+
+5. Performance Testing
+- Tested under multiple lighting conditions and hand angles.
+- Evaluated robustness across different users.
+- Noted limitations for future improvements.
+
+6. Results Documentation
+- Saved graphs, tables, and architecture diagram.
+- Prepared content for final report.
+
+Summary:
+Week 5 resulted in a fully functional real-time hand gesture recognition system with complete experimental validation and documentation.
